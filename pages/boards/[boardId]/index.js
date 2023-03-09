@@ -7,6 +7,7 @@ export default function BoardsPage() {
     <>
       <div>안녕하세요 게시판상세 동적페이지입니다.</div>
       <div>게시글아이디: {router.query.boardId}</div>
+      <div>왜 안나오니</div>
     </>
   );
 }
